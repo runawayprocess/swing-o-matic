@@ -1,0 +1,6 @@
+<script>start("/Users/zacharyjones/Documents/GitHub/swing-o-matic/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,128,"128 B",1736803372,"1/13/25, 4:22:52 PM");</script>
+<script>addRow("app.py","app.py",0,14838,"14.5 kB",1736803446,"1/13/25, 4:24:06 PM");</script>
+<script>addRow("calculations.py","calculations.py",0,16256,"15.9 kB",1736803547,"1/13/25, 4:25:47 PM");</script>
+<script>addRow("map.py","map.py",0,2394,"2.3 kB",1736803475,"1/13/25, 4:24:35 PM");</script>
