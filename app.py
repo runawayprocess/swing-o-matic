@@ -279,4 +279,4 @@ def create_dash_app():
 
 if __name__ == "__main__":
     app = create_dash_app()
-    app.run_server(debug=True)
+    app.run_server(debug=True, host="0.0.0.0", port=8080)
