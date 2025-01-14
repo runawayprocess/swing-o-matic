@@ -5,3 +5,7 @@ may integrate turnout, 3rd party share, and other demographic groupings, such as
 IPUMS ACS data used for demographic estimations
 
 ignores NE and ME allocation of EVs by congressional district
+
+https://tinyurl.com/2008swing
+
+hosted using railway
